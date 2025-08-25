@@ -1,1 +1,4 @@
-name : Domu
+name : เมะาสิทธิ์ สิทธิศักดิ์
+nickNmae : Dome
+age = 100
+#my profile
